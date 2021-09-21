@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- My name is Wilson Wu and I like programming as a hobby.
+- I like coding in Java and Python. I know how to code a little bit in C++ and HTML/CSS.
 <!--
 **wilsonpotato/wilsonpotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
