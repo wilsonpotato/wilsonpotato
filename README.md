@@ -1,5 +1,5 @@
 ### Hi there 👋
-- My name is Wilson Wu and I like to code.
+- My name is Wilson Wu and I like to drink water sometimes.
 
 <!--
 **wilsonpotato/wilsonpotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
